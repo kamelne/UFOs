@@ -10,7 +10,7 @@ When a user opens the webpage, they will be greeted with all the data neatly for
 
 The Filter Search is filled with example text that is grayed out, so the user knows how to input each criteria. 
 
-![homepage](https://user-images.githubusercontent.com/57120024/167474355-307871f7-61f8-4cd0-afc3-300ecfd695b2.PNG)
+![filter serach start](https://user-images.githubusercontent.com/57120024/167476253-47cfdfa8-c40d-45ed-a8d8-ae0380d01148.PNG)
 
 Once the user inputs criteria and clicks away from the input box the table will auto filter to the criteria. 
 
